@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
-
+//This is new Emac Comment for testing
 public class LayoutPractice extends JFrame {
     public LayoutPractice(){
         super("Testing Layout");
